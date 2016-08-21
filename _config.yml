@@ -12,5 +12,9 @@ color:
     - '#FF1D23'
 layout_spectrum: 0.345473155612126
 name: caminhos de sangue
+navigation:
+  - name: primeira parte da trilogia
+    url: 'http://thegrid.ai/adormecida/'
+    type: external
 title: Caminhos de Sangue
 description: terceira parte da trilogia das assassinas
