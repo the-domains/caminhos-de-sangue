@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-22T00:55:16.516Z'
+datePublished: '2016-08-22T00:56:57.128Z'
+sourcePath: _posts/2016-08-21-caminhos-de-sangue-adenaura-e-lobo.md
 isBasedOnUrl: 'https://youtu.be/RiOKeiM9pDw'
 author:
   - name: Camilo Pellegrini
@@ -70,7 +71,7 @@ metadata:
     Gráfico ASTRONAUTA MECANICO (VERUSCKA GIRIO) SERVIÇO Caminhos de Sangue
     Local: Teatro Gláucio Gill.
   inLanguage: pt
-dateModified: '2016-08-22T00:55:15.978Z'
+dateModified: '2016-08-22T00:56:56.674Z'
 title: CAMINHOS DE SANGUE - Adenaura e Lobo
 id: 74180b03-9c59-4e91-870c-6616a618eba5
 publisher:
@@ -85,7 +86,6 @@ description: >-
   ASTRONAUTA MECANICO (VERUSCKA GIRIO) SERVIÇO Caminhos de Sangue Local: Teatro
   Gláucio Gill.
 starred: false
-sourcePath: _posts/2016-08-21-caminhos-de-sangue-adenaura-e-lobo.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -93,5 +93,3 @@ _type: MediaObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FRiOKeiM9pDw%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRiOKeiM9pDw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRiOKeiM9pDw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-    https://youtu.be/er-3YuweCyE
