@@ -1,14 +1,32 @@
-layout_spectrum: 0.345473155612126
-typography_spectrum: 0.7864120993763208
+layout_spectrum: 1
+description: terceira parte da trilogia das assassinas
+name: caminhos de sangue
+title: Caminhos de Sangue
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+navigation:
+  - url: 'http://thegrid.ai/adormecida/'
+    name: primeira parte da trilogia
+    type: external
+typography_spectrum: 0.2470489
 color:
   brandStrength: 0.02174186846241355
-  lightness: 0.9814976612105966
-  saturation: 0.2903132594656199
-  rhythmicContrast: 0.35129938600584865
+  lightness: 0.9814976
+  saturation: 0.2903133
+  rhythmicContrast: 0.6736931
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-name: caminhos de sangue
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
